@@ -33,7 +33,7 @@ The lab involved configuring Ubuntu virtual machines, capturing traffic with tsh
 ## Screenshots
 
 ### sysctl Configuration
-![sysctl Configuration](sysctl-configuration.png)
+![sysctl Configuration](sysctl-Configuration.png)
 
 ### Ping Before Hardening
 ![Ping Before Hardening](ping-before-hardening.png)
