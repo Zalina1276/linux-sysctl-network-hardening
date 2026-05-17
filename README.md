@@ -33,17 +33,16 @@ The lab involved configuring Ubuntu virtual machines, capturing traffic with tsh
 ## Screenshots
 
 ### sysctl Configuration
-(upload screenshot)
+![sysctl Configuration](sysctl-configuration.png)
 
-### ICMP Before Hardening
-(upload screenshot)
+### Ping Before Hardening
+![Ping Before Hardening](ping-before-hardening.png)
 
-### ICMP After Hardening
-(upload screenshot)
+### Ping After Hardening
+![Ping After Hardening](ping-after-hardening.png)
 
 ### Wireshark ICMP Analysis
-(upload screenshot)
-
+![Wireshark Capture](wireshark-capture.png)
 ---
 
 ## Report
